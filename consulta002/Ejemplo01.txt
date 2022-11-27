@@ -1,0 +1,13 @@
+Ejemplo 1
+Escribir un programa que pregunte al usuario su edad y 
+muestre por pantalla si es mayor de edad o no.
+
+1.age = int(input("¿Cuál es tu edad? "))
+2.if age < 18: 
+3.    print ("Eres menor de edad.")
+4.else:
+5.    print("Eres mayor de edad.")
+
+
+¿Cuál es tu edad? 18
+Eres mayor de edad.

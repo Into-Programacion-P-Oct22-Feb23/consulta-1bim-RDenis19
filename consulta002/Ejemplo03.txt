@@ -1,0 +1,13 @@
+Ejemplo 3
+
+Escribir un programa que pida al usuario un número entero y 
+muestre por pantalla si es par o impar.
+
+1.n = int(input("Introduce un número entero: "))
+2.if n % 2 == 0:
+3.    print("El número " + str(n) + " es par")
+4.else:
+5.    print("El número " + str(n) + " es impar")
+
+Introduce un número entero:  27
+El número 27 es impar
